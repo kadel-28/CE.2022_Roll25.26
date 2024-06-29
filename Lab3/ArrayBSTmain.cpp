@@ -1,8 +1,4 @@
-/*
-Author name: Priyanshu Sharma
-Date created : November 7, 2022
-Array implementation of Binary Tree using C++
-*/
+
 #include<iostream>
 #include"BST.h"
 #include"arrayBST.h"
